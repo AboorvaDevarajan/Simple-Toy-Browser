@@ -1,2 +1,15 @@
+
 # Simple-Toy-Browser
-A really simple toy browser using Rust just to know the working of a browser. :)
+A really simple toy browser(Frisk) using Rust just to know the working of a browser. :)
+
+
+-- HTML rendering engine.
+-- Step 1 : To create a DOM module to read the HTML structure.
+            DOM (Document Object Model) is a tree of nodes.
+-- Step 2 : Writing a simple Parser.
+
+<br/>
+
+![Browser - Engine](https://raw.githubusercontent.com/AboorvaDevarajan/Simple-Toy-Browser/master/browser-engine.png)
+
+
